@@ -13,6 +13,7 @@
 		618E17A72474B2D600BE19ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 618E17A62474B2D600BE19ED /* Assets.xcassets */; };
 		618E17AA2474B2D600BE19ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 618E17A92474B2D600BE19ED /* Preview Assets.xcassets */; };
 		618E17AD2474B2D600BE19ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 618E17AB2474B2D600BE19ED /* LaunchScreen.storyboard */; };
+		618E17B52474B6BA00BE19ED /* Treat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618E17B42474B6BA00BE19ED /* Treat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		618E17A92474B2D600BE19ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		618E17AC2474B2D600BE19ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		618E17AE2474B2D600BE19ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		618E17B42474B6BA00BE19ED /* Treat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Treat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				618E17A02474B2D300BE19ED /* AppDelegate.swift */,
 				618E17A22474B2D300BE19ED /* SceneDelegate.swift */,
 				618E17A42474B2D300BE19ED /* ContentView.swift */,
+				618E17B42474B6BA00BE19ED /* Treat.swift */,
 				618E17A62474B2D600BE19ED /* Assets.xcassets */,
 				618E17AB2474B2D600BE19ED /* LaunchScreen.storyboard */,
 				618E17AE2474B2D600BE19ED /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				618E17A12474B2D300BE19ED /* AppDelegate.swift in Sources */,
 				618E17A32474B2D300BE19ED /* SceneDelegate.swift in Sources */,
+				618E17B52474B6BA00BE19ED /* Treat.swift in Sources */,
 				618E17A52474B2D300BE19ED /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
